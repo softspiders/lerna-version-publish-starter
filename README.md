@@ -55,7 +55,7 @@ yarn run bootstrap
 First, change, for example, one of the *index.js* files in one of the subpackage, then do commit according to
 [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/).
 
-Then execute the command
+Then execute the command:
 
 ```
 yarn run new-version
@@ -71,7 +71,7 @@ and then watch the output of Lerna's actions in the terminal window, and finally
 Change, for example, one or both of the *index.js* files in the subpackages, then do commit according to
 [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/).
 
-Then execute the command
+Then execute the command:
 
 ```
 yarn run publish-version
