@@ -32,11 +32,10 @@ Starter for [Lerna](https://lerna.js.org/) monorepo
 
 ---
 
-## Lerna installation
+## Requirements
 
-```
-npm install --global lerna
-```
+[Node.js](https://nodejs.org/en/download/package-manager/)
+[Lerna](https://lerna.js.org/)
 
 ---
 
