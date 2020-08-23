@@ -50,7 +50,7 @@ yarn run bootstrap
 
 ---
 
-## Update version
+## Updating version
 
 First, change, for example, one of the *index.js* files in one of the subpackage, then do commit according to
 [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/).
