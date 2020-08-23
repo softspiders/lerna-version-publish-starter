@@ -14,7 +14,7 @@ Starter for [Lerna](https://lerna.js.org/) monorepo
 
 ## Feature tags
 
-- git
+- github
 - lerna
 - publishing
 - starter
