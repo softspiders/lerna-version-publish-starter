@@ -4,7 +4,7 @@
     </a>
 </div>
 
-# Starter for packages versioning and their releasing using Lerna
+# Starter for packages versioning and publishing by Lerna
 
 Starter for [Lerna](https://lerna.js.org/) monorepo
 
