@@ -16,7 +16,7 @@
     "some-command": "lerna run some-command",
     "new-version": "lerna version --conventional-commits --yes",
     "publish-version": "lerna publish",
-    "lerna-fix": "lerna exec -- node ../../scripts/remove-gitHead.js"
+    "remove-gitHead": "lerna exec -- node ../../scripts/remove-gitHead.js"
   },
   "devDependencies": {
     "lerna": "^3.18.3"
