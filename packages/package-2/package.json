@@ -1,0 +1,7 @@
+{
+  "name": "@softspiders/package-2",
+  "version": "1.0.2",
+  "scripts": {
+    "some-command": "echo some-command for package-2"
+  }
+}

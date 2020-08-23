@@ -1,0 +1,24 @@
+{
+  "name": "lerna-releasing-starter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal template for Lerna versioning",
+  "repository": "https://github.com/softspiders/lerna-versioning-starter",
+  "author": "https://github.com/AlexanderLapygin",
+  "license": "MIT",
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "some-command": "lerna run some-command",
+    "new-version": "lerna version --conventional-commits --yes",
+    "publish-version": "lerna publish",
+    "lerna-fix": "lerna exec -- node ../../scripts/remove-gitHead.js"
+  },
+  "devDependencies": {
+    "lerna": "^3.18.3"
+  }
+}
